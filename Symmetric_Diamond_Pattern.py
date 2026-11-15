@@ -17,7 +17,7 @@ for i in range(n-1,0,-1):
     print( )
 
 
-#Output 
+#Output n=5
         1 
       1 2 1 
     1 2 3 2 1 
